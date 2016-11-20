@@ -1,0 +1,19 @@
+
+
+/**** Desktop Version ****/
+@media (min-width: 992px) {
+	div {
+		width: 33%;	
+	}
+}
+
+/**** Tablet Version ****/
+@media (max-width: 991px) and (min-width: 768px) {
+
+}
+
+/**** Mobile Version ****/
+@media (max-width: 767px) {
+
+
+}
