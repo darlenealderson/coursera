@@ -14,14 +14,41 @@ p {
 	font-size: 16px;
 	text-align:justify;
 	padding:10px;
+	border: 1px black;
 
 }
 
-.minititle {
-	color: red;
+.section1 {
+	background-color:79B1F1;
+}
+
+.section2 {
+	background-color:872400;
+}
+
+.section3 {
+	background-color: 6E0ABA;
+}
+
+.minititle1 {
+	color: orange;
 	font-size:18px;
 	text-align: right;
 	clear:both;
+}
+
+.minititle2 {
+	color: green;
+	font-size: 18px;
+	text-align: right;
+	clear:both;
+}
+
+.minititle3 {
+	color: orange;
+	font-size: 18px;
+	text-align: right;
+	clear: both;
 }
 
 /**** Desktop Version ****/
@@ -30,6 +57,7 @@ p {
 		float: left;
 		border: 1px black;
 		width: 33%;
+		margin: 5px;
 	}
 }
 	
@@ -41,11 +69,13 @@ p {
 		float: left;
 		border: 1px black;
 		width: 50%;
+		margin: 5px;
 	}
 	.col-md-12 {
 		clear: left;
 		border: 1px black;
-		width: 100%;
+		width: 100%; 
+		margin: 5px;
 	}
 }
 	
