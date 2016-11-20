@@ -14,8 +14,7 @@ h2 {
 	color: red;
 	font-size:18px;
 	text-align: right;
-	float:right;
-	clear:left;
+	clear:both;
 }
 
 p {
