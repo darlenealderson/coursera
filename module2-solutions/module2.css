@@ -60,15 +60,15 @@ div {
 		padding:10px;
 }
 
-#chicken {
+.chicken {
 	background-color: 97CBEC;
 }
 
-#beef {
+.beef {
 	background-color: EC97BA;
 }
 
-#sushi {
+.sushi {
 	background-color: E4B48D;
 }
 
