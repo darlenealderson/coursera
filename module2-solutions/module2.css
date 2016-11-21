@@ -14,21 +14,9 @@ p {
 	font-size: 16px;
 	text-align:justify;
 	padding:10px;
-	border: 1px black;
 
 }
 
-#section1 {
-	background-color:79B1F1;
-}
-
-#section2 {
-	background-color:872400;
-}
-
-#section3 {
-	background-color: 6E0ABA;
-}
 
 .minititle1 {
 	color: orange;
@@ -55,7 +43,6 @@ p {
 @media (min-width: 992px) {
 	.col-lg-4 {
 		float: left;
-		border: 1px black;
 		width: 33%;
 		margin: 5px;
 	}
@@ -67,13 +54,11 @@ p {
 @media (max-width: 991px) and (min-width: 768px) {
 	.col-md-6 {
 		float: left;
-		border: 1px black;
 		width: 50%;
 		margin: 5px;
 	}
 	.col-md-12 {
 		clear: left;
-		border: 1px black;
 		width: 100%; 
 		margin: 5px;
 	}
@@ -84,7 +69,6 @@ p {
 @media (max-width: 767px) {
 	.col-sm-12 {
 		float: left;
-		border: 1px black;
 		width: 100%;
 	}
 
