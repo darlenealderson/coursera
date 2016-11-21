@@ -66,16 +66,19 @@ section {
 #chicken {
 	background-color:#D0E3EE;
 	padding:15px;
+	border: black 1px;
 }
 
 #beef {
 	background-color:#EDBCC7;
 	padding:15px;
+	border: black 1px;
 }
 
 #sushi {
 	background-color:#E2B692;
 	padding:15px;
+	border: black 1px;
 }
 
 .minititle1 {
@@ -87,6 +90,7 @@ section {
 	text-align: right;
 	clear:both;
 	padding:10px;
+	border: black 1px;
 }
 
 .minititle2 {
@@ -98,6 +102,7 @@ section {
 	text-align: right;
 	clear:both;
 	padding: 10px;
+	border: black 1px;
 }
 
 .minititle3 {
@@ -109,4 +114,5 @@ section {
 	text-align: right;
 	clear: both;
 	padding:10px;
+	border: black 1px;
 }
