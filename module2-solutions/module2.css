@@ -1,29 +1,4 @@
 
-*{
-	box-sizing: border-box;
-}
-
-h1 {
-	color: red;
-	font-weight: bold;
-	font-size:24px;
-	text-align: center;
-}
-
-p {
-	font-size: 16px;
-	text-align:justify;
-	padding:10px;
-
-}
-
-div {
-	background-color: red;
-	border-style: black 3px
-	margin: 5px;
-}
-
-
 /**** Desktop Version ****/
 @media (min-width: 992px) {
 	.col-lg-4 {
@@ -57,6 +32,35 @@ div {
 		width: 100%;
 	}
 }
+
+/**** General Style ****/
+
+*{
+
+	box-sizing: border-box;
+}
+
+h1 {
+	color: red;
+	font-weight: bold;
+	font-size:24px;
+	text-align: center;
+}
+
+p {
+	font-size: 16px;
+	text-align:justify;
+	padding:10px;
+
+}
+
+div {
+	background-color: red;
+	border-style: black 3px
+	margin: 10px;
+}
+
+
 
 .minititle1 {
 	color: orange;
