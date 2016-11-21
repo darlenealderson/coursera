@@ -1,38 +1,4 @@
 
-/**** Desktop Version ****/
-@media (min-width: 992px) {
-	.col-lg-4 {
-		float: left;
-		width: 33%;
-		margin: 5px;
-	}
-}
-	
-
-/**** Tablet Version ****/
-@media (max-width: 991px) and (min-width: 768px) {
-	.col-md-6 {
-		float: left;
-		width: 50%;
-		margin: 5px;
-	}
-	.col-md-12 {
-		clear: left;
-		width: 100%; 
-		margin: 5px;
-	}
-}
-	
-	
-/**** Mobile Version ****/
-@media (max-width: 767px) {
-	.col-sm-12 {
-		float: left;
-		width: 100%;
-		margin: 5px;
-	}
-}
-
 /**** General Style ****/
 
 *{
