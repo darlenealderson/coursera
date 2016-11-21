@@ -17,6 +17,10 @@ p {
 
 }
 
+div {
+	background-color: red;
+}
+
 
 /**** Desktop Version ****/
 @media (min-width: 992px) {
