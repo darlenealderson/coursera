@@ -57,12 +57,22 @@ p {
 
 div {
 	background-color: red;
-	border-style: black 3px
+	border-style: black 3px;
 	margin: 10px;
 	padding:10px;
 }
 
+#chicken {
+	background-color: 97CBEC;
+}
 
+#beef {
+	background-color: EC97BA;
+}
+
+#sushi {
+	background-color: E4B48D;
+}
 
 .minititle1 {
 	color: orange;
