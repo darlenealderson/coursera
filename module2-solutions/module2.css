@@ -43,7 +43,7 @@
 body {
 	color: 242222;
 	font-family: arial helvetica sans-serif;
-	font size:40px;
+	font size:18px;
 	text-align:justify;
 	padding:10px;
 }
@@ -51,7 +51,7 @@ body {
 h1 {
 	color: red;
 	font-weight: bold;
-	font-size:75%;
+	font-size:24px;
 	text-align: center;
 }
 
@@ -75,7 +75,7 @@ div {
 .minititle1 {
 	color: orange;
 	background-color: 97CBEC;
-	font-size:25%;
+	font-size:20px;
 	text-align: right;
 	clear:both;
 }
@@ -83,7 +83,7 @@ div {
 .minititle2 {
 	color: green;
 	background-color: EC97BA;
-	font-size: 25%;
+	font-size: 20px;
 	text-align: right;
 	clear:both;
 }
@@ -91,7 +91,7 @@ div {
 .minititle3 {
 	color: blue;
 	background-color: E4B48D;
-	font-size: 25%;
+	font-size: 20px;
 	text-align: right;
 	clear: both;
 }
