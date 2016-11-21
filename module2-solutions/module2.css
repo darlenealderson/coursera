@@ -40,19 +40,21 @@
 	box-sizing: border-box;
 }
 
+body {
+	color: 242222;
+	font-family: arial helvetica sans-serif;
+	font size:16px;
+	text-align:justify;
+	padding:10px;
+}
+
 h1 {
 	color: red;
 	font-weight: bold;
-	font-size:24px;
+	font-size:75%;
 	text-align: center;
 }
 
-p {
-	font-size: 16px;
-	text-align:justify;
-	padding:10px;
-
-}
 
 div {
 		padding:10px;
@@ -73,7 +75,7 @@ div {
 .minititle1 {
 	color: orange;
 	background-color: 97CBEC;
-	font-size:18px;
+	font-size:25%;
 	text-align: right;
 	clear:both;
 }
@@ -81,7 +83,7 @@ div {
 .minititle2 {
 	color: green;
 	background-color: EC97BA;
-	font-size: 18px;
+	font-size: 25%;
 	text-align: right;
 	clear:both;
 }
@@ -89,7 +91,7 @@ div {
 .minititle3 {
 	color: blue;
 	background-color: E4B48D;
-	font-size: 18px;
+	font-size: 25%;
 	text-align: right;
 	clear: both;
 }
