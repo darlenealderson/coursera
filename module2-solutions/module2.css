@@ -58,41 +58,48 @@ h1 {
 
 section {
 		padding:10px;
-		background-color: 
+		border-color: black;
+		border-style:1px; 
 }
 
 #chicken {
-	background-color:#97CBEC;
+	background-color:#D0E3EE;
 }
 
 #beef {
-	background-color:#EC97BA;
+	background-color:#EDBCC7;
 }
 
 #sushi {
-	background-color:#E4B48D;
+	background-color:#E2B692;
 }
 
 .minititle1 {
 	color: orange;
-	background-color:#97CBEC;
+	background-color:#88C5EB;
+	background-size: 30px;
 	font-size:20px;
 	text-align: right;
 	clear:both;
+	padding:10px;
 }
 
 .minititle2 {
 	color: green;
-	background-color:#EC97BA;
+	background-color:#EE93A7;
+	background-size: 30px;
 	font-size: 20px;
 	text-align: right;
 	clear:both;
+	padding: 10px;
 }
 
 .minititle3 {
 	color: blue;
-	background-color:#E4B48D;
+	background-color:#DF985E;
+	background-size: 30px;
 	font-size: 20px;
 	text-align: right;
 	clear: both;
+	padding:10px;
 }
