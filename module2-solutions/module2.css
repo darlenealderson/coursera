@@ -45,7 +45,8 @@ body {
 	font-family: arial helvetica sans-serif;
 	font size:18px;
 	text-align:justify;
-	padding:10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
 }
 
 h1 {
@@ -57,7 +58,7 @@ h1 {
 
 
 section {
-		padding:10px;
+		padding: 10px;
 		border-color: black;
 		border-style:1px; 
 }
@@ -78,7 +79,7 @@ section {
 	color: orange;
 	background-color:#88C5EB;
 	background-position: right;
-	background-size: 30px;
+	background-width: 30px;
 	font-size:20px;
 	text-align: right;
 	clear:both;
@@ -88,7 +89,8 @@ section {
 .minititle2 {
 	color: green;
 	background-color:#EE93A7;
-	background-size: 30px;
+	background-position: right;
+	background-width: 30px;
 	font-size: 20px;
 	text-align: right;
 	clear:both;
@@ -98,7 +100,8 @@ section {
 .minititle3 {
 	color: blue;
 	background-color:#DF985E;
-	background-size: 30px;
+	background-position: right;
+	background-width: 30px;
 	font-size: 20px;
 	text-align: right;
 	clear: both;
