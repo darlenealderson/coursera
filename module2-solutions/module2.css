@@ -56,25 +56,26 @@ h1 {
 }
 
 
-div {
+section {
 		padding:10px;
+		background-color: 
 }
 
 #chicken {
-	background-color: 97CBEC;
+	background-color:#97CBEC;
 }
 
 #beef {
-	background-color: EC97BA;
+	background-color:#EC97BA;
 }
 
 #sushi {
-	background-color: E4B48D;
+	background-color:#E4B48D;
 }
 
 .minititle1 {
 	color: orange;
-	background-color: 97CBEC;
+	background-color:#97CBEC;
 	font-size:20px;
 	text-align: right;
 	clear:both;
@@ -82,7 +83,7 @@ div {
 
 .minititle2 {
 	color: green;
-	background-color: EC97BA;
+	background-color:#EC97BA;
 	font-size: 20px;
 	text-align: right;
 	clear:both;
@@ -90,7 +91,7 @@ div {
 
 .minititle3 {
 	color: blue;
-	background-color: E4B48D;
+	background-color:#E4B48D;
 	font-size: 20px;
 	text-align: right;
 	clear: both;
