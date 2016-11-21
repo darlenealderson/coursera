@@ -84,7 +84,7 @@ section {
 	color: orange;
 	background-color:#88C5EB;
 	background-position: right;
-	background-width: 30px;
+	background-size:15px 30px;
 	font-size:20px;
 	text-align: right;
 	clear:both;
@@ -96,7 +96,7 @@ section {
 	color: green;
 	background-color:#EE93A7;
 	background-position: right;
-	background-width: 30px;
+	background-size: 15px 30px;
 	font-size: 20px;
 	text-align: right;
 	clear:both;
@@ -108,7 +108,7 @@ section {
 	color: blue;
 	background-color:#DF985E;
 	background-position: right;
-	background-width: 30px;
+	background-size: 15px 30px;
 	font-size: 20px;
 	text-align: right;
 	clear: both;
