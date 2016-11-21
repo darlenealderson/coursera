@@ -19,6 +19,8 @@ p {
 
 div {
 	background-color: red;
+	border-style: black 3px
+	margin: 5px;
 }
 
 
