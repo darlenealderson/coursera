@@ -59,8 +59,7 @@ h1 {
 
 section {
 		padding: 10px;
-		border-color: black;
-		border-style:1px; 
+		border: black 1px;
 }
 
 #chicken {
