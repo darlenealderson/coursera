@@ -56,9 +56,6 @@ h1 {
 }
 
 
-section {
-		padding: 10px;
-		border: 1px solid black;
 }
 
 #chicken {
@@ -82,8 +79,7 @@ section {
 .minititle1 {
 	color: orange;
 	background-color:#88C5EB;
-	background-position: right;
-	background-size:15px 30px;
+	background-size:15px 20px;
 	font-size:20px;
 	text-align: right;
 	clear:both;
@@ -94,8 +90,7 @@ section {
 .minititle2 {
 	color: green;
 	background-color:#EE93A7;
-	background-position: right;
-	background-size: 15px 30px;
+	background-size: 15px 20px;
 	font-size: 20px;
 	text-align: right;
 	clear:both;
@@ -106,8 +101,7 @@ section {
 .minititle3 {
 	color: blue;
 	background-color:#DF985E;
-	background-position: right;
-	background-size: 15px 30px;
+	background-size: 15px 20px;
 	font-size: 20px;
 	text-align: right;
 	clear: both;
