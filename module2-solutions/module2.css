@@ -65,14 +65,17 @@ section {
 
 #chicken {
 	background-color:#D0E3EE;
+	padding:15px;
 }
 
 #beef {
 	background-color:#EDBCC7;
+	padding:15px;
 }
 
 #sushi {
 	background-color:#E2B692;
+	padding:15px;
 }
 
 .minititle1 {
