@@ -9,7 +9,6 @@
 }
 	
 
-
 /**** Tablet Version ****/
 @media (max-width: 991px) and (min-width: 768px) {
 	.col-md-6 {
@@ -73,6 +72,7 @@ div {
 
 .minititle1 {
 	color: orange;
+	background-color: 97CBEC;
 	font-size:18px;
 	text-align: right;
 	clear:both;
@@ -80,6 +80,7 @@ div {
 
 .minititle2 {
 	color: green;
+	background-color: EC97BA;
 	font-size: 18px;
 	text-align: right;
 	clear:both;
@@ -87,6 +88,7 @@ div {
 
 .minititle3 {
 	color: blue;
+	background-color: E4B48D;
 	font-size: 18px;
 	text-align: right;
 	clear: both;
