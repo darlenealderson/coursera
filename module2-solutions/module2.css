@@ -50,7 +50,7 @@ h2 {
 }
 
 .minititle1 {
-	width: 40px;
+	width: 100px;
 	color: orange;
 	background-color:#88C5EB;
 	font-size:20px;
@@ -61,7 +61,7 @@ h2 {
 }
 
 .minititle2 {
-	width: 40px;
+	width: 100px;
 	color: green;
 	background-color:#EE93A7;
 	font-size: 20px;
@@ -72,7 +72,7 @@ h2 {
 }
 
 .minititle3 {
-	width: 40px;
+	width: 10px;
 	color: blue;
 	background-color:#DF985E;
 	font-size: 20px;
