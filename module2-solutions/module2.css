@@ -27,7 +27,7 @@ section {
 
 h2 {
 	position:relative;
-	left: 150px;
+	left: 200px;
 }
 
 
@@ -72,7 +72,7 @@ h2 {
 }
 
 .minititle3 {
-	width: 10px;
+	width: 100px;
 	color: blue;
 	background-color:#DF985E;
 	font-size: 20px;
