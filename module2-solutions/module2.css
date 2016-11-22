@@ -28,7 +28,7 @@ section {
 h2 {
 	position:relative;
 	left: 200px;
-	overflow: initial;
+	overflow: auto;
 }
 
 
