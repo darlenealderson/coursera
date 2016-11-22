@@ -26,9 +26,8 @@ section {
 }
 
 h2 {
-	position:relative;
+	position:absolute;
 	left: 200px;
-	overflow: auto;
 }
 
 
