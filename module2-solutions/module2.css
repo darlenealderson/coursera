@@ -6,7 +6,6 @@
 	font-family: arial helvetica sans-serif;
 	margin: 0px;
 	padding: 0px;
-	color:#242222;
 }
 
 head {
@@ -55,6 +54,10 @@ p {
 	padding:15px;
 	top-padding: 5px;
 	border:1px solid black;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-bottom: 24px;
+	position:relative;
 }
 
 #beef {
@@ -62,6 +65,10 @@ p {
 	padding:15px;
 	top-padding: 5px;
 	border: 1px solid black;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-bottom: 24px;
+	position:relative;
 }
 
 #sushi {
@@ -69,6 +76,10 @@ p {
 	padding:15px;
 	top-padding: 5px;
 	border: 1px solid black;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-bottom: 24px;
+	position:relative;
 }
 
 .minititle1 {
