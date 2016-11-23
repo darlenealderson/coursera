@@ -24,6 +24,7 @@ h1 {
 	font-size:24px;
 	text-align: center;
 	display: block;
+	margin: 50px;
 }
 
 div {
@@ -47,11 +48,20 @@ p {
 	position: relative;
 }
 
+.title {
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+	width: 120px;
+	top: 0px;
+	right: 0px;
+	padding: 10px;
+}
+
 #chicken {
 	background-color:#C4DFE6;
 	padding:15px;
 	padding-top: 5px;
-	border:1px solid black;
 	margin-left: 12px;
 	margin-right: 12px;
 	margin-bottom: 24px;
@@ -80,17 +90,15 @@ p {
 	position:relative;
 }
 
-.title1 {
-	position: absolute;
-	width: 100px;
+#title1 {
 	text-align: center;
+	width: 120px;
+	position: absolute;
 	color: orange;
 	background-color:#88C5EB;
 	top: 0px;
 	right: 0px;
-	font-size:20px;
-	padding:10px;
-	border: 1px solid black;
+	font-size:125%;
 }
 
 .title2 {
@@ -101,9 +109,7 @@ p {
 	background-color:#EE93A7;
 	top: 0px
 	right: 0px;
-	font-size: 20px;
-	padding: 10px;
-	border: 1px solid black;
+	font-size: 125%;
 }
 
 .title3 {
@@ -114,11 +120,21 @@ p {
 	background-color:#DF985E;
 	top: 0px;
 	right: 0px;
-	font-size: 20px;
-	padding:10px;
-	border: 1px solid black;
+	font-size: 125%;
 }
 
+.content {
+	margin-top: 25px;
+}
+
+.container {
+	border: 1px solid black;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-bottom: 24px;
+	position: relative;
+	background-color: grey;
+}
 
 @media (min-width:992px) {
 	.col-lg-4 {
