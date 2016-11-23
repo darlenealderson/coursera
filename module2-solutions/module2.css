@@ -73,11 +73,12 @@ p {
 
 .minititle1 {
 	width: 100px;
+	text-align: center;
 	color: orange;
 	background-color:#88C5EB;
+	top: 0px;
+	right: 0px;
 	font-size:20px;
-	text-align: right;
-	clear:both;
 	padding:10px;
 	border: 1px solid black;
 	position: absolute;
@@ -85,11 +86,12 @@ p {
 
 .minititle2 {
 	width: 100px;
+	text-align: center;
 	color: green;
 	background-color:#EE93A7;
+	top: 0px
+	right: 0px;
 	font-size: 20px;
-	text-align: right;
-	clear:both;
 	padding: 10px;
 	border: 1px solid black;
 	position: absolute;
@@ -97,11 +99,12 @@ p {
 
 .minititle3 {
 	width: 100px;
+	text-align: center;
 	color: blue;
 	background-color:#DF985E;
+	top: 0px;
+	right: 0px;
 	font-size: 20px;
-	text-align: right;
-	clear: both;
 	padding:10px;
 	border: 1px solid black;
 	position: absolute;
@@ -112,7 +115,6 @@ p {
 @media (min-width:992px) {
 	.col-lg-4 {
 		width:33%;
-		margin:5px;
 	}
 }
 
@@ -126,13 +128,10 @@ p {
 @media (max-width:991px) and (min-width:768px) {
 	.col-md-6 {
 		width:50%;
-		margin:5px;
 	}
 	.col-md-12 {
-		clear:both;
 		width:100%;
-		margin:5px;
-	}
+			}
 }
 
 @media (max-width:991px) and (min-width:768px) {
