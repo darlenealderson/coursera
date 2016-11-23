@@ -55,7 +55,6 @@ p {
 	padding:15px;
 	top-padding: 5px;
 	border:1px solid black;
-	position: absolute;
 }
 
 #beef {
@@ -63,7 +62,6 @@ p {
 	padding:15px;
 	top-padding: 5px;
 	border: 1px solid black;
-	position: absolute;
 }
 
 #sushi {
@@ -71,7 +69,6 @@ p {
 	padding:15px;
 	top-padding: 5px;
 	border: 1px solid black;
-	position: absolute;
 }
 
 .minititle1 {
