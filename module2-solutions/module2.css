@@ -13,9 +13,6 @@ head {
 }
 
 body {
-	font-size:18px;
-	text-align:justify;
-	padding:30px;
 	display: block;
 }
 
@@ -36,6 +33,9 @@ div {
 p {
 	display: block;
 	position: relative;
+	font-size: 18px;
+	text-align: justify;
+	padding: 30px;
 }
 
 .row {
