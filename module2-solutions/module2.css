@@ -89,7 +89,7 @@ p {
 
 #title1 {
 	text-align: center;
-	width: 120px;
+	width: 100px;
 	position: absolute;
 	color: orange;
 	background-color:#88C5EB;
@@ -98,7 +98,7 @@ p {
 	font-size:125%;
 }
 
-.title2 {
+#title2 {
 	position: absolute;
 	width: 100px;
 	text-align: center;
@@ -109,7 +109,7 @@ p {
 	font-size: 125%;
 }
 
-.title3 {
+#title3 {
 	position: absolute;
 	width: 100px;
 	text-align: center;
