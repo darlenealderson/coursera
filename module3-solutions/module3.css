@@ -43,14 +43,14 @@ body {
 #nav-list a {
   color: #C5465D;
   text-align: center;
-  font-size: 1em;
+  font-size: .5em;
 }
 
 #nav-list a:hover {
   background: #CAA8AE;
 }
 #nav-list a span {
-  font-size: 1.8em;
+  font-size: .5em;
 }
 
 
