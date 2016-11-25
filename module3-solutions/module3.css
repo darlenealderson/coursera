@@ -37,17 +37,17 @@ body {
 
 #nav-list {
   margin-top: 10px;
-  background: #C58D97;
+  background: #CAA8AE;
 }
 
 #nav-list a {
   color: #C5465D;
   text-align: center;
-  font-size: 2em;
+  font-size: 1em;
 }
 
 #nav-list a:hover {
-  background: #E7E7E7;
+  background: #CAA8AE;
 }
 #nav-list a span {
   font-size: 1.8em;
