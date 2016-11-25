@@ -91,10 +91,11 @@ section {
         width: 70%;
         margin-left: auto;
         margin-right: auto;
+        background: #CAA8AE;
     }
 
     .second {
-    	width: 70%;
+    	width: 70vp;
     	margin-left: auto;
         margin-right: auto;
     }
