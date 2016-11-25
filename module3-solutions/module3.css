@@ -42,6 +42,7 @@ body {
 #nav-list a {
   color: #C5465D;
   text-align: center;
+  font-size: 1em;
 }
 
 #nav-list a:hover {
