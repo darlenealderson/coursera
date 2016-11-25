@@ -32,14 +32,16 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
 }
-
-#nav-list {
 	margin-top: 10px;
 	}
 
 #nav-list a {
 	color: #C46274;
 	text-align: center;
+	visibility: hidden;
+}
+
+#nav-list {
 	font-size: 1.8em;
 }
 
