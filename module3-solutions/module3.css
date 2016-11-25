@@ -68,6 +68,14 @@ body {
 	font-size: 1.3em;
 }
 
+p {
+	text-align: justify;
+}
+
+section {
+	height: 1000px;
+}
+
 /********** Desktop Version **********/
 @media (min-width: 992px) and (max-width: 1199px) {
    
