@@ -74,6 +74,7 @@ p {
 
 section {
 	height: 1000px;
+	margin-top: 20px;
 }
 
 /********** Desktop Version **********/
@@ -87,13 +88,13 @@ section {
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
     #p1, #p1, #p3 {
-        width: 80%;
+        width: 70%;
         margin-left: auto;
         margin-right: auto;
     }
 
     .second {
-    	width: 80%;
+    	width: 70%;
     	margin-left: auto;
         margin-right: auto;
     }
