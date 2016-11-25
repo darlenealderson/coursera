@@ -37,12 +37,12 @@ body {
 	margin-top: 10px;
 	}
 
-#nav-list span {
+#nav-list a {
 	color: #C46274;
 	text-align: center;
 	font-size: 1.8em;
 }
 
-#nav-list span:hover {
+#nav-list a:hover {
 	background: #C5465D;
 }
