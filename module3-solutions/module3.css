@@ -36,9 +36,13 @@ body {
 
 
 #nav-list {
-	color:#C5465D;
-	font-size: 1.8em;
 	margin-top: 10px;
+}
+
+#nav-list a {
+	color:#C5465D;
+	text-align: center;
+	font-size:  1.8em;
 }
 
 #nav-list a:hover {
