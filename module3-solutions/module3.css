@@ -31,17 +31,14 @@ body {
 
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
-}
 	margin-top: 10px;
 	}
 
-#nav-list a {
-	visibility: hidden;
-}
 
 #nav-list {
 	color:#C5465D;
 	font-size: 1.8em;
+	margin-top: 10px;
 }
 
 #nav-list a:hover {
@@ -55,8 +52,4 @@ body {
 .navbar-header button.navbar-toggle {
 	clear: both;
 	margin-top: -30px;
-}
-
-.nav .navbar-nav {
-	visibility: hidden;
 }
