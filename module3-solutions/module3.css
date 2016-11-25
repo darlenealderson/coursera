@@ -33,3 +33,16 @@ body {
 	text-decoration: none;
 }
 
+#nav-list {
+	margin-top: 10px;
+	}
+
+#nav-list span {
+	color: #C46274;
+	text-align: center;
+	font-size: 1.8em;
+}
+
+#nav-list span:hover {
+	background: #C5465D;
+}
