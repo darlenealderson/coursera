@@ -40,7 +40,7 @@ body {
 }
 
 #nav-list a {
-	color:#C5465D;
+	text-decoration-color: #C5465D;
 	text-align: center;
 	font-size:  1.8em;
 }
