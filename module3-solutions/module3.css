@@ -36,17 +36,16 @@ body {
 
 
 #nav-list {
-	margin-top: 10px;
+  margin-top: 10px;
 }
 
 #nav-list a {
-	text-decoration-color: #C5465D;
-	text-align: center;
-	font-size:  1.8em;
+  color: #C5465D;
+  text-align: center;
 }
 
 #nav-list a:hover {
-	background: #C5465D;
+  background: #E7E7E7;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
