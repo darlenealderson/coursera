@@ -41,9 +41,11 @@ body {
 }
 
 #nav-list a {
-  color: #951C49;
+  color: #C5465D;
   text-align: center;
+  font-size: 2em;
 }
+
 #nav-list a:hover {
   background: #E7E7E7;
 }
