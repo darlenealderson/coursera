@@ -36,12 +36,12 @@ body {
 	}
 
 #nav-list a {
-	color: #C46274;
-	text-align: center;
 	visibility: hidden;
 }
 
 #nav-list {
+	color: 
+	background:#C5465D;
 	font-size: 1.8em;
 }
 
