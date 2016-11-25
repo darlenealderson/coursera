@@ -25,7 +25,7 @@ body {
 	font-weight: bold;
 	text-shadow: 1px 1px 1px #304747;
 	margin-top: 0;
-	margin-bottom: 0;
+	margin-bottom: 10px;
 	line-height: .90;
 }
 
@@ -65,7 +65,7 @@ body {
 .second {
 	font-family: 'Cabin', sans-serif; 
 	color: #C5465D;
-	font-size: 1em;
+	font-size: 1.3em;
 }
 
 /********** Desktop Version **********/
