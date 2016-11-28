@@ -71,7 +71,6 @@ body {
 p {
 	text-align: justify;
 	background: #4C7272;
-	height: 700px;
 }
 
 section {
@@ -89,7 +88,7 @@ section {
 }
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
-    #p1, #p2, #p3 {
+    #p1 {
         width: 75%;
         margin-left: auto;
         margin-right: auto;
